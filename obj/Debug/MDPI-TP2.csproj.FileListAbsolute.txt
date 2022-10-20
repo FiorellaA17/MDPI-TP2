@@ -1,0 +1,6 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPI-TP2\MDPI-TP2\bin\Debug\MDPI-TP2.exe.config
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPI-TP2\MDPI-TP2\bin\Debug\MDPI-TP2.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPI-TP2\MDPI-TP2\bin\Debug\MDPI-TP2.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPI-TP2\MDPI-TP2\obj\Debug\MDPI-TP2.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPI-TP2\MDPI-TP2\obj\Debug\MDPI-TP2.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\MDPI-TP2\MDPI-TP2\obj\Debug\MDPI-TP2.pdb
